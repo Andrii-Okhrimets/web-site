@@ -163,8 +163,7 @@ CKEDITOR_CONFIGS = {
             {'name': 'yourcustomtools', 'items': [
                 # put the name of your editor.ui.addButton here
                 'Preview',
-                'Maximize',
-                'Youtube',
+                'Maximize'          
             ]},
         ],
         'toolbar': 'YourCustomToolbarConfig',  # put selected toolbar config here
@@ -191,7 +190,6 @@ CKEDITOR_CONFIGS = {
             'dialog',
             'dialogui',
             'elementspath',
-            
         ]),
     }
 }
